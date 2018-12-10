@@ -2,9 +2,15 @@
 "androidDownLoadVersion":"1.0.0",
 "iosH5Version":"1.0.0",
 "androidH5Version":"1.0.0",
-"iosH5Zip":"gg-win-app.com/tc_download/ios.zip",
+"iosH5Zip":"gg-win-app.com/fd_download/ios.z",
 "androidH5Zip":"gg-win-app.com/tc_download/android.zip",
 "iosStepDownLoadUrl":"gg-win-app.com/tc_download/ios.html",
-"androidStepDownLoadUrl":"gg-win-app.com/tc_download/android.html",
-"content":"1.修改了某某。2.优化了用户体验。",
-"apiUrl":"https://api.mqwish.com"}
+"androidStepDownLoadUrl":"https://api.mjjymy.com/",
+"content":"
+ 1. 新增更新自动提醒功能
+ 2. 使用者介面优化
+ 3. 针对各地区线路优化
+ 4. 新增第三方游戏菜单
+ 5. 新增
+ ", 
+"apiUrl":"https://api.mjjymy.com/"}
