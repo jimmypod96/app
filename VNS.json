@@ -1,16 +1,17 @@
-{"iosDownLoadVersion":"1",
-"androidDownLoadVersion":"1",
-"iosH5Version":"1",
-"androidH5Version":"1",
-"iosH5Zip":"gg-win-app.com/fd_download/ios.zip",
-"androidH5Zip":"gg-win-app.com/tc_download/android.zip",
-"iosStepDownLoadUrl":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.plist",
-"androidStepDownLoadUrl":"https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.apk",
-"content":"
- 1. 新增更新自动提醒功能
+{
+    "iosDownLoadVersion":"1",
+    "androidDownLoadVersion":"1",
+    "iosH5Version":"1",
+    "androidH5Version":"1",
+    "iosH5Zip":"gg-win-app.com/fd_download/ios.zip",
+    "androidH5Zip":"gg-win-app.com/tc_download/android.zip",
+    "iosStepDownLoadUrl":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.plist",
+    "androidStepDownLoadUrl":"https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.apk",
+    "content":"1. 新增更新自动提醒功能
  2. 使用者介面优化
  3. 针对各地区线路优化
  4. 新增第三方游戏菜单
  5. 修正三方游戏BUG
  ", 
-"apiUrl":"https://api.Lt8rkc.cn"}
+    "apiUrl":"https://api.Lt8rkc.cn"
+}
