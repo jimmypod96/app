@@ -1,0 +1,10 @@
+{"iosDownLoadVersion":"1.0.0",
+"androidDownLoadVersion":"1.0.0",
+"iosH5Version":"1.0.0",
+"androidH5Version":"1.0.0",
+"iosH5Zip":"gg-win-app.com/tc_download/ios.zip",
+"androidH5Zip":"gg-win-app.com/tc_download/android.zip",
+"iosStepDownLoadUrl":"gg-win-app.com/tc_download/ios.html",
+"androidStepDownLoadUrl":"gg-win-app.com/tc_download/android.html",
+"content":"1.修改了某某。2.优化了用户体验。",
+"apiUrl":"https://api.mqwish.com"}
