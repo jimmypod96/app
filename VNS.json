@@ -8,6 +8,6 @@
     "androidH5Zip":"gg-win-app.com/tc_download/android.zip",
     "iosStepDownLoadUrl":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.plist",
     "androidStepDownLoadUrl":"https://raw.githubusercontent.com/jayce-it/AppDownload/master/VNS/VNS.apk",
-    "content":"1. 新增更新自动提醒功能\n2. 使用者介面优化\n3. 针对各地区线路优化\n4. 新增第三方游戏菜单\n5. 修正三方游戏BUG\n6. 修正客服链结无法传送手机图片问题\n7. 修正部分充值无法送出问题", 
+    "content":"1. 新增更新自动提醒功能</br>2. 使用者介面优化</br>3. 针对各地区线路优化</br>4. 新增第三方游戏菜单</br>5. 修正三方游戏BUG</br>6. 修正客服链结无法传送手机图片问题</br>7. 修正部分充值无法送出问题", 
     "apiUrl":"https://api.Lt8rkc.cn"
 }
