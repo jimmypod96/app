@@ -8,6 +8,12 @@
     "androidH5Zip":"gg-win-app.com/tc_download/android.zip",
     "iosStepDownLoadUrl":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-it/AppDownload/master/TM/TM.plist",
     "androidStepDownLoadUrl":"https://raw.githubusercontent.com/jayce-it/AppDownload/master/TM/TM.apk",
-    "content":"1. 新增更新自动提醒功能\r\n2. 使用者介面优化\r\n3. 针对各地区线路优化\r\n4. 新增第三方游戏菜单\r\n5. 修正三方游戏BUG\r\n6. 修正客服链结无法传送手机图片问题\r\n7. 修正部分充值无法送出问题", 
+    "content":"1. 新增更新自动提醒功能\n
+ 2. 使用者介面优化\n
+ 3. 针对各地区线路优化\n
+ 4. 新增第三方游戏菜单\n
+ 5. 修正三方游戏BUG\n
+ 6. 修正客服链结无法传送手机图片问题\n
+ 7. 修正部分充值无法送出问题\n", 
     "apiUrl":"https://api.qbd15.com"
 }
